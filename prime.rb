@@ -1,4 +1,5 @@
 
 def prime?(number)
   start = 2 
-  if 
+  if number > 1 
+    
