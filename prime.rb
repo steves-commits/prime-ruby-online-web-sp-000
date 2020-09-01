@@ -1,3 +1,3 @@
 
-def prime?(i)
-  if i/
+def prime?(number)
+  
